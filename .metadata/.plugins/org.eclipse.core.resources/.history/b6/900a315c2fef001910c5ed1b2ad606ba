@@ -1,0 +1,4 @@
+module SpringExample {
+	requires spring.context;
+	requires java.sql;
+}

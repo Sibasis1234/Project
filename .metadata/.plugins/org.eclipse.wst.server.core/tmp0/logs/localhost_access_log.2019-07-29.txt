@@ -1,0 +1,4 @@
+127.0.0.1 - - [29/Jul/2019:00:05:52 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:00:05:53 +0530] "GET /ServletRequestDispatcher/ HTTP/1.1" 200 327
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:00:05:53 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:00:06:02 +0530] "POST /ServletRequestDispatcher/servlet1 HTTP/1.1" 200 15
